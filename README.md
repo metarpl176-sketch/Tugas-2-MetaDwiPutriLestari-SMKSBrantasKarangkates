@@ -1,1 +1,1 @@
-website: tugas-2-metadwiputrilestari-smksbra-chi.vercel.app
+https://tugas-2-metadwiputrilestari-smksbra-chi.vercel.app/
